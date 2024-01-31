@@ -12,7 +12,7 @@ public class Main2 {
 		Student s2 = new Student();
 		
 		s2.no = 2;
-		s2.name = "Sham";
+		s2.name = "Venkat";
 		
 		System.out.println(s1.no);
 		System.out.println(s1.name);
